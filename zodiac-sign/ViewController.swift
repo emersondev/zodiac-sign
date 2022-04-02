@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UITableViewController {
     
-    let signs = ["Áries", "Touro", "Gêmeos", "Câncer", "Leão", "Virgem", "Libra", "Escorpião", "Sagitário", "Capricórnio", "Aquário", "Aquário"]
+    let signs = ["Áries", "Touro", "Gêmeos", "Câncer", "Leão", "Virgem", "Libra", "Escorpião", "Sagitário", "Capricórnio", "Aquário", "Peixes"]
     var characteristics: [String] = []
     
     override func viewDidLoad() {
